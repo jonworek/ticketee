@@ -50,4 +50,4 @@ group :test do
   gem 'email_spec'
 end
 
-gem 'devise', '~> 1.4.3'
+gem 'devise', '~> 3.5.10'
